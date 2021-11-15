@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Ciconv",
+        "repositoryURL": "https://github.com/maclee99/Ciconv.git",
+        "state": {
+          "branch": null,
+          "revision": "b771ef1651909ac1cd2bb8e0a4711afa295a33ac",
+          "version": "0.0.1"
+        }
+      },
+      {
+        "package": "ClibSASL",
+        "repositoryURL": "https://github.com/maclee99/ClibSASL.git",
+        "state": {
+          "branch": null,
+          "revision": "110e3ab04ca74a5cbccb3770c7b1c4d5cd2cca50",
+          "version": "0.0.1"
+        }
+      },
+      {
+        "package": "CopenLDAP",
+        "repositoryURL": "https://github.com/maclee99/CopenLDAP.git",
+        "state": {
+          "branch": null,
+          "revision": "b4ac758f8e1145db91fb87899edddf28bc0fdfae",
+          "version": "0.0.1"
+        }
+      },
+      {
+        "package": "iconv",
+        "repositoryURL": "https://github.com/maclee99/iconv.git",
+        "state": {
+          "branch": null,
+          "revision": "6f5fa799d2398b598f64e4392f6ee57f0cf62510",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
