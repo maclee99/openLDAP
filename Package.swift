@@ -14,7 +14,7 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
-        .package(url: "https://github.com/maclee99/iconv.git", from: "0.0.1"),
+        .package(url: "https://github.com/maclee99/iconv.git", from: "0.0.2"),
         .package(url: "https://github.com/maclee99/ClibSASL.git", from: "0.0.1"),
         .package(url: "https://github.com/maclee99/CopenLDAP.git", from: "0.0.1"),
      ],

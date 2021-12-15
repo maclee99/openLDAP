@@ -14,6 +14,8 @@ import iconv
 
 import Dispatch
 
+import Foundation
+
 /// Perfect LDAP Module
 public class LDAP {
 
